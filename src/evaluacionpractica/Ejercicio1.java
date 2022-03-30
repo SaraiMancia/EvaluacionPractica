@@ -29,6 +29,6 @@ public class Ejercicio1 {
         System.out.println("Nombre del em'pleado: "+s.getNombre());
         System.out.println("Salario Bruto del empleado: "+s.slB(s));
         System.out.println("Salario Liquido: "+s.sLQ(s));
-        System.out.println("Rentencion del salario: "+s.RENTA());
+        System.out.println("Rentencion del salario: "+s);
     }
 }
