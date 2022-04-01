@@ -2,7 +2,7 @@
 package evaluacionpractica;
 
 public class Salario {
-        String Nombre;
+     String Nombre;
         double renta;
         double sueldo;
         double HT,HP;
