@@ -33,7 +33,7 @@ public class Ejercicio2 {
     }
 
     public void imprimir() {
-        System.out.println("-----------------DATOS PERSONALES--------------------");
+        System.out.println("------------------DATOS PERSONALES--------------------");
         System.out.println("Nombre: "+nombre);
         System.out.println("Edad: "+edad);
          System.out.println("Direccion: "+direccion);

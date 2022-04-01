@@ -55,7 +55,5 @@ public class Datos {
     public void setCantidadP(String cantidadP) {
         this.cantidadP = cantidadP;
     }
-
-
 }
 

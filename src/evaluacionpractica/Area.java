@@ -58,8 +58,6 @@ public Area(String Ccomputos, String Biblioteca, String zonaVerde, String lab, S
 
     public void setCancha(String cancha) {
         this.cancha = cancha;
-    }
-
-    
+    }  
 }
 

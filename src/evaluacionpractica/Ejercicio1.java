@@ -30,5 +30,6 @@ public class Ejercicio1 {
         System.out.println("Salario Bruto del empleado: "+s.slB(s));
         System.out.println("Salario Liquido: "+s.sLQ(s));
         System.out.println("Rentencion del salario: "+s);
+   
     }
 }

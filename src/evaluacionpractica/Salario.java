@@ -106,4 +106,5 @@ public class Salario {
         sr=sb-salarioLiq;
         return sr;
     }
+    
 }
